@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ai_infer_process",
+    "\\scenario",
+    "\\smp"
+  ],
+  "SelectedNode": "\\ai_infer_process\\GetSegnetMap.cpp",
+  "PreviewInSolutionExplorer": false
+}
